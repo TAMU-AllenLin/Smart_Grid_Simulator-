@@ -18,10 +18,10 @@ Built with modular components for generation, load, and storage models — makin
 
 ## Project Structure 
 smart-grid-simulation/
-│-- grid_simulation.py # Main simulation runner \n
-│-- generation_model.py # Renewable energy generation logic
-│-- load_model.py # Demand/load modeling
-│-- user_input.py # User-configurable parameters
-│-- plot_results.py # Visualization of results
-│-- requirements.txt # Dependencies
-│-- README.md # Project documentation
+│ -- grid_simulation.py # Main simulation runner \n
+│ -- generation_model.py # Renewable energy generation logic
+│ -- load_model.py # Demand/load modeling
+│ -- user_input.py # User-configurable parameters
+│ -- plot_results.py # Visualization of results
+│ -- requirements.txt # Dependencies
+│ -- README.md # Project documentation
