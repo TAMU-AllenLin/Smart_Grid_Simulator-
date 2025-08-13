@@ -13,3 +13,5 @@ Built with modular components for generation, load, and storage models — makin
 - Generates **performance logs** for analysis.
 - Creates **visual plots** of demand, generation, battery charge, and unmet demand.
 - Modular design (`generation_model.py`, `load_model.py`, etc.) for easy extension.
+
+## Project Structure 
