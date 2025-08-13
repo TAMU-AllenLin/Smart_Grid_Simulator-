@@ -29,7 +29,7 @@ smart-grid-simulation/
 ```
 ##  Installation & Usage 
 ### 1. Clone repository
-git clone https://github.com/TAMU-AllenLin/smart-grid-simulation.git
+git clone https://github.com/TAMU-AllenLin/Smart_Grid_Simulator-.git
 cd smart-grid-simulation
 ### 2. Install Dependencies 
 pip install -r requirements.txt
