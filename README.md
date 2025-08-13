@@ -14,6 +14,8 @@ Built with modular components for generation, load, and storage models — makin
 - Creates **visual plots** of demand, generation, battery charge, and unmet demand.
 - Modular design (`generation_model.py`, `load_model.py`, etc.) for easy extension.
 
+---
+
 ## Project Structure 
 smart-grid-simulation/
 │-- grid_simulation.py # Main simulation runner \n
