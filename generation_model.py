@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np 
 
 def solar_generation(timestep, solar_power_gen):
     #models the solar power generation based on the time of day using a sinusoidal wave function. Peak at miday, at night 0. 
@@ -44,4 +44,5 @@ def generate_power(timestep, region, solar_power_gen, wind_power_gen, trad_power
 '''for hour in range(24):
     power = generate_power(hour, region = 0)
     print(f"Hour {hour}: total generation = {power:.2f} kW") '''
+
 
