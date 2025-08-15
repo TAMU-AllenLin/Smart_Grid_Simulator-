@@ -1,4 +1,4 @@
-#ALL VALUES ARE SUBJECT TO CHANGE 
+#ALL VALUES ARE SUBJECT TO CHANGE, FILE IS NOT NEEDED UNLESS FOR HARD TESTING 
 
 #TIME_STEPS = 24 #number of time steps (24 hrs in a day)
 #NUM_REGIONS = 1 #number of regions in the simulation (North, East, South, West, Central regions)
@@ -27,3 +27,4 @@
 #BATTERY_CAPACITY = 50 #kWH capacity per region 
 #BATTERY_CHARGE_EFFICIENCY = 0.9 #90 percent efficiency charging and discharging
 #BATTERY_DIS_EFFICIENCY = 0.9 #90 percent efficiency charging and discharging
+
