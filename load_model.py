@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np 
 def generate_demand(time_step, region, base_demand, peak_increase, peak_hours, demand_noise):
     #models electricity demand for a region at a specific time. Accounts for peak hours and noise 
     
@@ -11,4 +11,5 @@ def generate_demand(time_step, region, base_demand, peak_increase, peak_hours, d
     noise = np.random.normal(0, demand_noise)
     demand += noise 
     
+
     return max(demand, 0) #ensure that demand is never below 0 
